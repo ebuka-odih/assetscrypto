@@ -22,7 +22,7 @@
     <meta name="msapplication-config" content="https://storage.googleapis.com/static-webapp-220401-prod/static/i/fav/browserconfig.e65075b0e7e5.xml?v=gAa6AEel3x">
     <meta name="theme-color" content="#ffffff">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400" rel="stylesheet">
-    <title>Assets Cryptoview - Compound Your Crypto</title>
+    <title>AssetsCrypto - Compound Your Crypto</title>
     <meta name="description" content="Staked helps investors compound their cryptocurrency investments by participating in staking or lending.">
 </head>
 
@@ -31,7 +31,7 @@
 <nav class="Nav">
     <div class="Container">
         <div class="Nav__left">
-            <a class="Nav__logo" href="{{ route('index') }}">Assets Cryptoview</a>
+            <a class="Nav__logo" href="{{ route('index') }}">AssetsCrypto</a>
             <label for="mob-menu" class="Nav__ham js-show-menu"><span class="Nav__ham-inner"></span></label>
         </div>
         <input type="checkbox" id="mob-menu" class="Nav__mobmenu-toggle">

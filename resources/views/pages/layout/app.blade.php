@@ -12,14 +12,14 @@
     <link rel="manifest" href="https://storage.googleapis.com/static-webapp-220401-prod/static/i/fav/site.d7bca03eb860.webmanifest?v=gAa6AEel3x">
     <link rel="mask-icon" href="https://storage.googleapis.com/static-webapp-220401-prod/static/i/fav/safari-pinned-tab.419415add3f1.svg?v=gAa6AEel3x" color="#102039">
     <link rel="shortcut icon" href="https://storage.googleapis.com/static-webapp-220401-prod/static/i/fav/favicon.c554d9eff063.ico?v=gAa6AEel3x">
-    <meta name="apple-mobile-web-app-title" content="Assets Cryptoview">
-    <meta name="application-name" content="Assets Cryptoview">
+    <meta name="apple-mobile-web-app-title" content="AssetsCrypto">
+    <meta name="application-name" content="AssetsCrypto">
     <meta name="msapplication-TileColor" content="#f3f9ff">
     <meta name="msapplication-config" content="https://storage.googleapis.com/static-webapp-220401-prod/static/i/fav/browserconfig.e65075b0e7e5.xml?v=gAa6AEel3x">
     <meta name="theme-color" content="#ffffff">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,600&amp;display=swap" rel="stylesheet">
-    <title>Assets Cryptoview - Compound Your Crypto</title>
-    <meta name="description" content="Assets Cryptoview helps investors compound their cryptocurrency investments by participating in staking or lending.">
+    <title>AssetsCrypto - Compound Your Crypto</title>
+    <meta name="description" content="AssetsCrypto helps investors compound their cryptocurrency investments by participating in staking or lending.">
 
 
 </head>
@@ -28,7 +28,7 @@
 
 
 <header class="Top Container">
-    <a href="{{ route('index') }}" class="Logo">Assets Cryptoview</a>
+    <a href="{{ route('index') }}" class="Logo">AssetsCrypto</a>
     <input id="mobmenu-toggle" type="checkbox">
     <label for="mobmenu-toggle" class="Nav-Ham">
         <span class="Nav-Ham__lines"></span>
@@ -101,7 +101,7 @@
 
 <footer class="Footer Container">
     <div class="Footer__menu">
-        <div class="Footer__logo">Assets Cryptoview</div>
+        <div class="Footer__logo">AssetsCrypto</div>
 
         <div class="Footer__corporate">
             <h4 class="Footer__subheader">Corporate</h4>
@@ -149,7 +149,7 @@
             <a href="{{ route('login') }}"  class="Btn Btn--indigo Btn--invert  " title="Create Account">Create Account</a>
         </div>
         <div class="Footer__footer">
-            <div class="Footer__copyright">2022 &copy; Assets Cryptoview</div>
+            <div class="Footer__copyright">2022 &copy; AssetsCrypto</div>
 
         </div>
     </div>
