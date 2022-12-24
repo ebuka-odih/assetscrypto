@@ -38,7 +38,7 @@
                 <b>Fixed Income&nbsp;Solutions for&nbsp;Crypto Asset Investors</b>
             </h1>
             <p class="Hero__p">
-                Staked helps investors earn yield from staking and DeFi without
+                AssetsCrypto helps investors earn yield from staking and DeFi without
                 taking custody of their crypto assets.
             </p>
         </div>
@@ -1296,7 +1296,7 @@
 
     <div class="Eth2Status__copy">
         <h2 class="Eth2Status__header Header"><b>Crypto’s Trusted Partner of Choice for ETH2 Staking</b></h2>
-        <p>Staked’s robust suite of ETH2 infrastructure and tooling make it easy for large ETH holders, institutional investors, custodians and exchanges to participate in ETH2 staking.</p>
+        <p>AssetsCrypto’s robust suite of ETH2 infrastructure and tooling make it easy for large ETH holders, institutional investors, custodians and exchanges to participate in ETH2 staking.</p>
 
         <a href="{{ route('login') }}"  class="Btn Btn--indigo Btn--invert  Btn--expanded Eth2Status__cta" title="Stake Now">Stake Now</a>
     </div>
@@ -1311,7 +1311,7 @@
                     </div>
                 </div>
                 <div class="Chart__axis-label Chart__axis-label--y">Implied yield</div>
-                <div class="Chart__axis-label Chart__axis-label--x">ETH Staked</div>
+                <div class="Chart__axis-label Chart__axis-label--x">ETH AssetsCrypto</div>
             </section>
             <div class="Chart__sub">
                 <div class="Chart__legends Legend">
@@ -1342,9 +1342,9 @@
 
 <section class="Pros Container">
     <div class="Pros__header">
-        <h2 class="Header"><b>Why Choose Staked</b>?</h2>
+        <h2 class="Header"><b>Why Choose AssetsCrypto</b>?</h2>
         <p class="Pros__hint">
-            Staked has been the trusted staking and defi lending partner of choice
+            AssetsCrypto has been the trusted staking and defi lending partner of choice
             to the leading projects, investment funds, exchanges, custodians and
             wallet providers in crypto for the past 3 years.
         </p>
@@ -1353,7 +1353,7 @@
         <div>
             <img src="https://storage.googleapis.com/static-webapp-220401-prod/static/i/svg/reliable_and_secure.62bd64796717.svg">
             <h3 class="Pros-Item__header Header">Highly Available Infrastructure</h3>
-            We use Kubernetes to distribute across 5 clouds with automated failover, and no Staked customer has suffered losses due to slashing or extended downtime.
+            We use Kubernetes to distribute across 5 clouds with automated failover, and no AssetsCrypto customer has suffered losses due to slashing or extended downtime.
         </div>
 
         <div>
@@ -1364,7 +1364,7 @@
         <div>
             <img src="https://storage.googleapis.com/static-webapp-220401-prod/static/i/svg/assets_coverage.85430390d6b0.svg">
             <h3 class="Pros-Item__header Header">Broadest Asset Coverage</h3>
-            With support for 30+ assets and 15+ more coming soon, Staked delivers rewards across the broadest range of crypto assets.
+            With support for 30+ assets and 15+ more coming soon, AssetsCrypto delivers rewards across the broadest range of crypto assets.
         </div>
 
         <div>
@@ -1391,9 +1391,9 @@
     <div class="Accordion js-accordion">
 
         <div class="Accordion-Item">
-            <div class="Accordion-Item__question" tabindex="0">Can I buy tokens from Staked?</div>
+            <div class="Accordion-Item__question" tabindex="0">Can I buy tokens from AssetsCrypto?</div>
             <div class="Accordion-Item__answer">
-                No, Staked does not sell any tokens. You can buy tokens from <a href=https://www.kraken.com/ target="_blank">Kraken</a>
+                No, AssetsCrypto does not sell any tokens. You can buy tokens from <a href=https://www.kraken.com/ target="_blank">Kraken</a>
             </div>
         </div>
 

@@ -14,16 +14,16 @@ class AdminSeeder extends Seeder
      */
     public function run()
     {
-        $admin = User::where('email', '=', 'admin@assetscryptoview.com')->first();
+        $admin = User::where('email', '=', 'admin@assetscrypto.io')->first();
         if($admin === null){
             DB::table('users')->insert([
                 'name' => 'Admin Panel',
                 'status' => 1,
                 'admin' => 1,
                 'username' => "admin",
-                'email' => 'admin@assetscryptoview.com',
+                'email' => 'admin@assetscrypto.io',
                 'email_verified_at' => \Carbon\Carbon::now(),
-                'password' => Hash::make('ASSETSVIWER'),
+                'password' => Hash::make('ASSETSCRYPTO'),
             ]);
         }
     }

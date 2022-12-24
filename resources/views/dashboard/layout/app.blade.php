@@ -3,7 +3,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Assets Cryptoview | Dashboard</title>
+    <title>Assets Crypto | Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -29,11 +29,11 @@
                 <!-- LOGO -->
                 <div class="navbar-brand-box">
                     <a href="{{ route('index') }}" class="logo logo-dark">
-                        <h3 style="font-weight: bolder; color: white">Assets Cryptoview</h3>
+                        <h3 style="font-weight: bolder; color: white">Assets Crypto</h3>
                     </a>
 
                     <a href="{{ route('index') }}" class="logo logo-light">
-                        <h3 style="font-weight: bolder; color: white">Assets Cryptoview</h3>
+                        <h3 style="font-weight: bolder; color: white">Assets Crypto</h3>
                     </a>
                 </div>
 

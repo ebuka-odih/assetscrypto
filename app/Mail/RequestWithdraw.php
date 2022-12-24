@@ -30,7 +30,7 @@ class RequestWithdraw extends Mailable
     public function build()
     {
         return $this->markdown('emails.request_withdrawl')
-            ->from('admin@assetscryptoview.com', "Assets Cryptoview")
-            ->subject('Assets Cryptoview');
+            ->from('admin@assetscrypto.io', "Assets Crypto")
+            ->subject('Assets Crypto');
     }
 }

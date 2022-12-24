@@ -27,6 +27,7 @@ class FundingMail extends Mailable
      *
      * @return $this
      */
+
     public function build()
     {
         return $this->view('emails.fundingMail');

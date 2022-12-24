@@ -146,7 +146,7 @@
 
 
             <a href="{{ route('login') }}"  class="Btn Btn--indigo   " title="Login">Login</a>
-            <a href="{{ route('login') }}"  class="Btn Btn--indigo Btn--invert  " title="Create Account">Create Account</a>
+            <a href="{{ route('register') }}"  class="Btn Btn--indigo Btn--invert  " title="Create Account">Create Account</a>
         </div>
         <div class="Footer__footer">
             <div class="Footer__copyright">2022 &copy; AssetsCrypto</div>
